@@ -21,7 +21,7 @@ Az applikációs program futtatásához a *main.py*  script futtatása szükség
 ![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/Initialization.png?raw=true)
 
 
-####-- <ins>Kamerakalibráció</ins>
+#### -- <ins>Kamerakalibráció</ins>
 - A kamera kalibrálásához két lehetőségük van. Vagy manuális, vagy automata módon készütünk kalibrációs képeket.
 - A manuális esetben a robotkar mozgatásához a megadott gombok állnak rendelkezésre, amelyek lenyomásával a robotkar Cartesian koordináták mentén vezérelhető. A képek készítéséhez a "Take picture" gomb szolgál. A "Show detected markers" lehetőség kiválasztása esetén láthatók a kameraképen a megtalált markerek. Ennek a kezelőfelületnek a bemutatására az alábbi kép szolgál:
 
@@ -44,7 +44,7 @@ Az applikációs program futtatásához a *main.py*  script futtatása szükség
   
 ![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/CameraCalib.png?raw=true)
 
-####-- <ins>Prekalculációs lépés</ins>
+#### -- <ins>Prekalculációs lépés</ins>
 - Ebben a lépésben szükséges lemérnünk egy kezdeti becslést a robotkar bázisa és a tábla koordinátarendszere közötti transzformációhoz.
 - Ennek a lemérése után a kezdeti becslés paraméterei beírandók a kezelőfelüt megfelelő helyeire. 
 - Több kép készíthető a korábban bemutatott módszerekkel, ha a felhasználó ezt szükségesnek érzi.
