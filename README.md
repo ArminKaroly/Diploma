@@ -54,4 +54,11 @@ Az applikációs program futtatásához a *main.py*  script futtatása szükség
   
 ![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/PreCalculation.png?raw=true)
 
-### -- <ins> Robotkalibráció </ins>
+#### -- <ins> Robotkalibráció </ins>
+- A robotkalibrációhoz hasonlóan mint korábban további képek készíthetők, illetve a készített képek ugyancsak megtekinthetők.
+- A robotkalibrácó elvégézéséhez a "Calibrate robot" gomb lenyomása szükséges. 
+- Kalibrációs adatok beolvashatók, és kimenthetők az "Open" és "Save" gombokkal.
+- A kalibráció befejezése esetén az ablak bezárható az "Accept" gombbal. 
+- A robotkalibráció felületét a következő ábra szemlélteti: 
+
+![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/Calibration.png?raw=true)
