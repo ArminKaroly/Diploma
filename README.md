@@ -16,7 +16,8 @@ Az applikációs program futtatásához a *main.py*  script futtatása szükség
 - Ezt követően a megfelelő kamera kiválasztása szükséges a legördülő menüből. 
 - Majd pedig a markertábla paramétereit szükséges megadnunk. 
 - Az bemeneti adatok megnyitására az "Open", míg a bementi adatok mentésére a "Save" gomb használható. Ha az inicializációval végeztünk akkor a továbblépéshez az "Accept" gomb lenyomása szükséges.
-- Az inicializációs felületet a lentebbi ábra szemlélteti: 
+- Az inicializációs felületet a lentebbi ábra szemlélteti:
+
 ![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/Initialization.png?raw=true)
 
 
