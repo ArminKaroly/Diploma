@@ -1,0 +1,9 @@
+{
+    "Robot_IP": "192.168.1.149",
+    "Camera_index": 6,
+    "Board_dictionary": "4x4_1000",
+    "Board_size_width": 37,
+    "Board_size_height": 25,
+    "Square_size": 30.0,
+    "Marker_size": 23.0
+}
