@@ -16,8 +16,7 @@ Az applikációs program futtatásához a *main.py*  script futtatása szükség
 - Ezt követően a megfelelő kamera kiválasztása szükséges a legördülő menüből. 
 - Majd pedig a markertábla paramétereit szükséges megadnunk. 
 - Az bemeneti adatok megnyitására az "Open", míg a bementi adatok mentésére a "Save" gomb használható. Ha az inicializációval végeztünk akkor a továbblépéshez az "Accept" gomb lenyomása szükséges.
-- Az inicializációs felületet a lentebbi ábra szemlélteti:
-  
+- Az inicializációs felületet a lentebbi ábra szemlélteti: 
 ![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/Initialization.png?raw=true)
 
 
@@ -47,4 +46,11 @@ CameraCalib.png?raw=true)
 ####-- <ins>Prekalculációs lépés</ins>
 - Ebben a lépésben szükséges lemérnünk egy kezdeti becslést a robotkar bázisa és a tábla koordinátarendszere közötti transzformációhoz.
 - Ennek a lemérése után a kezdeti becslés paraméterei beírandók a kezelőfelüt megfelelő helyeire. 
-- Esetlegesen több kép készíthető a korábban bemutatott módszerekkel.
+- Több kép készíthető a korábban bemutatott módszerekkel, ha a felhasználó ezt szükségesnek érzi.
+- Az ismeretlen paraméterek számításához a "Calculate transformations" gomb megnyomás aszükséges.
+- Hasonlóan mint korábban a szükséges értékek beolvashatók, a kiszámított értékek kimenthetők az "Open" és "Save" gombbal. Illetve a számítások elvégézse után az applikáció tovább léptethető az "Accept" gombbal. 
+- Az applikáció felületét a következő ábra szemlélteti: 
+![alt text](https://github.com/ArminKaroly/Diploma/blob/master/Images/
+PreCalculation.png?raw=true)
+
+### -- <ins> Robotkalibráció </ins>
